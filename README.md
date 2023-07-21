@@ -1,6 +1,6 @@
 # Dice-challenge
 
-The Dice-challenge is built using html,CSS,javascript. By using javascript, random() function is used for generating a random number ,after which using if-else statement condition according to which result get generated ina website.
+The Dice-challenge is built using html,CSS,javascript. By using javascript, random() function is used for generating a random number ,after which using if-else statement condition according to which result get generated in a website.
 The dynamic look of project is giving by using html, CSS.
 The images are inserted and get positioned by Using text-align in CSS.
 # Image of project
